@@ -3,7 +3,7 @@
 💻 Développeur Java en formation
 🚀 Passionné par le développement, la logique et la programmation orientée objet
 
-
+![Profile views](https://komarev.com/ghpvc/?username=syl566&color=blue)
 
 🚀 À propos de moi
 🎯 En formation développement Java
@@ -33,6 +33,7 @@ JavaScript / Php
 
 
 📂 Mes projets
+
 🔹 Donjon & Dragon (Java - POO)
 
 Simulation d’un jeu type Donjon & Dragon en Java.
@@ -61,7 +62,6 @@ Application Java qui retourne un message selon le jour et l’heure.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=syl566&show_icons=true)
 
-https://komarev.com/ghpvc/
 
 
 
