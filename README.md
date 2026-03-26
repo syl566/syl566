@@ -60,13 +60,6 @@ Application Java qui retourne un message selon le jour et l’heure.
 ✔ Tests unitaires avec JUnit
 ✔ Injection de dépendance pour tester les dates
 
-📊 Statistiques GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=syl566&show_icons=true&theme=tokyonight)
-
-
-
-
 
 
 🎯 Objectifs
