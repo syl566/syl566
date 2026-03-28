@@ -61,9 +61,9 @@ Application Java basée sur le temps
 
 ## 📊 Mes stats GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=syl566&show_icons=true&theme=tokyonight)
+[![Stats GitHub](https://github-readme-stats.vercel.app/api?username=syl566&show_icons=true&theme=tokyonight)](https://github.com/syl566)
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=syl566&layout=compact&theme=tokyonight)
+[![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=syl566&layout=compact&theme=tokyonight)](https://github.com/syl566)
 
 ---
 
