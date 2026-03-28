@@ -1,5 +1,8 @@
 # 👋 Salut, moi c'est Sylvie
 
+![Profile views](https://komarev.com/ghpvc/?username=syl566&label=Vues%20du%20profil&color=0e75b6&style=flat)
+
+
 💻 Développeuse Java en formation  
 🚀 En reconversion professionnelle vers le développement d'applications  
 
